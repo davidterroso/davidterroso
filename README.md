@@ -29,7 +29,7 @@
 - 🧪 [D](https://github.com/davidterroso/D) – My dissertation, with all its code and final PDF available
 - 🤖 [MARLClassification](https://github.com/seifhussam/MARLClassification) – Multi-Agent Reinforcement Learning (MARL) approach to image classification using PyTorch
 - 🏥 [HospitalManagementWebsite](https://github.com/davidterroso/HospitalManagementWebsite) – A web app for managing patients, materials, and procedures
-- ⚙️ [PTL](https://github.com/yourusername/PTL) – Migration and training of a medical image segmentation model from Python 2 to 3, with ROI-based patch extraction in TensorFlow
+- ⚙️ [PTL](https://github.com/davidterroso/PTL) – Migration and training of a medical image segmentation model from Python 2 to 3, with ROI-based patch extraction in TensorFlow
 - 🧠 [ML](https://github.com/davidterroso/ML) – Step-by-step explanations of the math behind key ML algorithms
 - 🔬 [HealthLLM](https://github.com/davidterroso/HealthLLM) – RAG system using LLMs and biomedical articles via the PMC API  
 
