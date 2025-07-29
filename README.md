@@ -33,8 +33,6 @@
 - 🧠 [ML](https://github.com/davidterroso/ML) - Step-by-step explanations of the math behind key ML algorithms
 - 🔬 [HealthLLM](https://github.com/davidterroso/HealthLLM) - RAG system using LLMs and biomedical articles via the PMC API  
 
----
-
 ------
 ## 📈 Activity 
 
@@ -46,12 +44,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidterroso&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davidterroso"/>
   </a>
 </div>
+<!---
 <p align="center">
-  <a href="https://github.com/daviterroso">
+  <a href="https://github.com/davidterroso">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidterroso&&theme=tokyonight" alt="davidterroso" />
   </a>
 </p>
-
+--->
 ## 📖 Libraries
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
