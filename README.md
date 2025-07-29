@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm David Castanho Terroso!
 
-🎓 I recently completed my Master’s in **Biomedical Engineering**, where I developed a strong passion for **data science**, **machine learning**, and **deep learning** — especially in applications at the intersection of healthcare and artificial intelligence.
+🎓 I recently completed my Master’s in **Biomedical Engineering**, where I developed a strong passion for **data science**, **machine learning**, and **deep learning** - especially in applications at the intersection of healthcare and artificial intelligence.
 
 🧠 I enjoy working on problems that combine technical depth with real-world impact. My past projects include:
 - Semantic segmentation of retinal fluids in OCT images
@@ -26,12 +26,12 @@
 
 ## 📂 Some pinned repositories worth checking out:
 
-- 🧪 [D](https://github.com/davidterroso/D) – My dissertation, with all its code and final PDF available
-- 🤖 [MARLClassification](https://github.com/seifhussam/MARLClassification) – Multi-Agent Reinforcement Learning (MARL) approach to image classification using PyTorch
-- 🏥 [HospitalManagementWebsite](https://github.com/davidterroso/HospitalManagementWebsite) – A web app for managing patients, materials, and procedures
-- ⚙️ [PTL](https://github.com/davidterroso/PTL) – Migration and training of a medical image segmentation model from Python 2 to 3, with ROI-based patch extraction in TensorFlow
-- 🧠 [ML](https://github.com/davidterroso/ML) – Step-by-step explanations of the math behind key ML algorithms
-- 🔬 [HealthLLM](https://github.com/davidterroso/HealthLLM) – RAG system using LLMs and biomedical articles via the PMC API  
+- 🧪 [D](https://github.com/davidterroso/D) - My dissertation, with all its code and final PDF available
+- 🤖 [MARLClassification](https://github.com/seifhussam/MARLClassification) - Multi-Agent Reinforcement Learning (MARL) approach to image classification using PyTorch
+- 🏥 [HospitalManagementWebsite](https://github.com/davidterroso/HospitalManagementWebsite) - A web app for managing patients, materials, and procedures
+- ⚙️ [PTL](https://github.com/davidterroso/PTL) - Migration and training of a medical image segmentation model from Python 2 to 3, with ROI-based patch extraction in TensorFlow
+- 🧠 [ML](https://github.com/davidterroso/ML) - Step-by-step explanations of the math behind key ML algorithms
+- 🔬 [HealthLLM](https://github.com/davidterroso/HealthLLM) - RAG system using LLMs and biomedical articles via the PMC API  
 
 ---
 
