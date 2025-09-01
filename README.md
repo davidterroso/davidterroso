@@ -20,7 +20,7 @@
 ## 📫 Let's connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/david-terroso/)
-- 📧 Email: daviterroso@live.com.pt
+- 📧 Email: daviterroso@live.com.pt or davidterroso19@gmail.com
 
 ---
 
